@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yjrhsxhebwr
+=======
+hbbrdkj
+>>>>>>> branch-2
